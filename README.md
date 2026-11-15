@@ -121,4 +121,8 @@ Cantidad de países por continente:
   - África    : 3
   - Oceanía   : 2
 ==========================================
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> da2270f2ff42f980f7d487248c6f4ed3154ff6b7
